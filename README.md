@@ -9,3 +9,7 @@ wondered whether the masked bits encoded another message,
 since the heart [i.e. the red bits] shape was asymmetrical...
 
 N.B. can't be formulated as LCS of the binary, but can be of the ASCII
+
+## See also
+
+- _[Finding a prime number whose binary representation is a giraffe (or a T-Rex)](https://agiliq.com/blog/2018/01/prime-number-binary-trex/)_, Shabda Raaj (21st January 2018)
